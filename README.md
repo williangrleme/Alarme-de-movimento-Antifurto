@@ -8,16 +8,17 @@ Foi desenvolvido em 2022 durante minha gradução em Engenharia da computação 
 
 
 
-## Simulação do circuito
-
- - [Circuito no Tinkercad](https://www.tinkercad.com/things/6WY5z9aIIE2)
-
-
-
 ## Funcionalidade
 
 - O sensor verifica a presença, caso exista, o gerador de som é acionado, assim como uma contagem regressiva é iniciada para acionar a policia.
 - Caso o botão de cancelamento seja pressionado, a contagem e o som são cancelados.
+
+
+
+
+## Simulação do circuito
+
+ - [Circuito no Tinkercad](https://www.tinkercad.com/things/6WY5z9aIIE2)
 
 
 ## Documentação
